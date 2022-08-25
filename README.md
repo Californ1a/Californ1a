@@ -83,22 +83,6 @@
 	<img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white" />
 	<img src="https://img.shields.io/badge/Intel%20Core_i5_4th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
 	<img src="https://img.shields.io/badge/NVIDIA-GTX970-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-	<img src="" />
-	<img src="" />
-	<img src="" />
-	<img src="" />
-	<img src="" />
-	<img src="" />
-	<img src="" />
-	<img src="" />
-	<img src="" />
-	<img src="" />
-	<img src="" />
-	<img src="" />
-	<img src="" />
-	<img src="" />
-	<img src="" />
-	<img src="" />
 	<img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
 	<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 	<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></p>
