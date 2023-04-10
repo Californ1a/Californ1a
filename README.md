@@ -5,9 +5,7 @@
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=Californ1a&theme=gitdimmed&rank=-C&no-frame=true&column=7" alt="Californ1a" /></a></p>
 
-- 👨‍💻 I'm currently working on [Charge Up](https://github.com/Californ1a/chargeup)
-
-- 🌱 I'm currently learning the **Vue 3 composition API**
+- 👨‍💻 I'm currently working on [Charge Up](https://github.com/Californ1a/chargeup), [Runescape Website Improvements](https://chrome.google.com/webstore/detail/runescape-website-improve/ndfndghofhfepimjbnnfanjpbnkdhgpf), and [AllianceBot](https://github.com/Californ1a/AllianceBot).
 
 <h3 align="left">💬 Socials:</h3>
 <p align="left">
