@@ -40,6 +40,8 @@
 	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="/../../../..//devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 	<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="/../../../..//devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 	<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="/../../../..//danielcranney/readme-generator/blob/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /> </a>
+	<a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="/../../../..//devicons/devicon/blob/master/icons/lua/lua-original.svg" width="36" height="36" alt="Lua" /> </a>
+	<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="/../../../..//get-icon/geticon/blob/master/icons/mediawiki.svg" width="36" height="36" alt="MediaWiki" /> </a>
 </p>
 
 <details open>
